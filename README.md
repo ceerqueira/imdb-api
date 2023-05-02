@@ -7,7 +7,7 @@ Projeto de backend com a linguagem Java, é um desafio do <a href="https://7days
 | -------------  | --- |
 | ✨ Nome        | Filme API IMDB
 | 🏷️ Tecnologias | Java, HTML, CSS, BootStrap
-| 🚀 URL         | https://sruinascimento.github.io/7days-of-code-java/
+| 🚀 URL         | https://ceerqueira.github.io/imdb-api/
 | 🤿 Desafio | https://7daysofcode.io/matricula/java
 
 
