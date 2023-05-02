@@ -1,11 +1,11 @@
 
 
-# R Movies
+# Filmes API IMDB
 
 Projeto de backend com a linguagem Java, é um desafio do <a href="https://7daysofcode.io/matricula/java">Seven Days of Code</a> que visa gerar um site HTML com os dados que foram consumidos da API do <a href="https://imdb-api.com/">IMDB</a>.
 | 🪧 Vitrine.Dev |     |
 | -------------  | --- |
-| ✨ Nome        | Filme
+| ✨ Nome        | Filme API IMDB
 | 🏷️ Tecnologias | Java, HTML, CSS, BootStrap
 | 🚀 URL         | https://sruinascimento.github.io/7days-of-code-java/
 | 🤿 Desafio | https://7daysofcode.io/matricula/java
