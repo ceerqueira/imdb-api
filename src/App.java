@@ -35,7 +35,7 @@ public class App {
 
         // Ordernar por Nome, e pode se alterar para outros tipos de ordenaçøes 
         Collections.sort(listaFilme);
-        PrintWriter writer = new PrintWriter("content.html");
+        PrintWriter writer = new PrintWriter("index.html");
 
         new HttpGenerator(writer).generate(listaFilme); //movies é um List<Movie>
 
